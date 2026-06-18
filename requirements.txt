@@ -48,14 +48,7 @@ joblib==1.5.1
 MarkupSafe==3.0.2
 msgpack==1.1.0
 
-numpy==2.2.6
-openpyxl==3.1.5
-pandas==2.2.3
 
-passlib==1.7.4
-
-proto-plus==1.26.1
-protobuf==6.31.1
 
 pyasn1==0.6.1
 pyasn1-modules==0.4.2
@@ -70,7 +63,7 @@ pyparsing==3.2.3
 python-dateutil==2.9.0.post0
 python-dotenv==1.2.2
 python-jose==3.5.0
-python-multipart==0.0.20
+python-multipart==0.0.22
 
 pytz==2025.2
 PyYAML==6.0.2
@@ -94,3 +87,4 @@ websockets==15.0.1
 
 uritemplate==4.2.0
 urllib3==2.4.0
+certifi==2025.4.26
